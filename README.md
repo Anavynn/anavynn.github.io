@@ -5,7 +5,7 @@ This is a site created to learn something new.
 ### Just something
 
 **Na ja...**<br>
-_I don't really have any idea of what should I write here.<br>
+_I don't really have any idea of what should I write here._<br>
 `just some code, I guess`
 
 ```markdown
